@@ -1,0 +1,20 @@
+REFERENCES
+===============
+
+https://github.com/architsingh15/Pima-Indians-onset-of-diabetes-dataset-Prediction-using-Neural-Networks-in-Keras/tree/master/code
+
+https://github.com/thebackpropogator/Pima-Indians-Dataset/blob/master/Using%20Keras.ipynb
+
+https://github.com/KriAga/Pima-Indians-Diabetes-Dataset-Classification/blob/master/diabetesNeuralNetwork.ipynb
+
+https://github.com/Svanik/Diabetes-Neural-Network
+
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
+
+
+
+BACKPROPAGATION FROM SCRATCH
+
+https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
